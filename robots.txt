@@ -1,0 +1,1 @@
+user-agent: *Disallow: /galleta#%20agente-come-galletas

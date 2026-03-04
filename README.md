@@ -43,4 +43,4 @@ Es probable que esté detectando los `../` y los elimine, así que intentamos co
 
 Espero que este desafío haya sido divertido para todos los jugadores. Un agradecimiento a Julián y todos los encargados de este CTF por invitarme a desarrollar algo nuevo para mí.
 
-By: Perceval
+By: briancgx
